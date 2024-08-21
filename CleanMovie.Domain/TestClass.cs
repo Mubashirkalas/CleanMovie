@@ -17,7 +17,13 @@ namespace CleanMovie.Domain
             return "Hello, CleanMovie!";
         }
 
-        public string Saybye1()
+        public string Saybye12()
+        {
+            return "Hello, CleanMovie!";
+
+        }
+
+        public string good()
         {
             return "Hello, CleanMovie!";
         }
