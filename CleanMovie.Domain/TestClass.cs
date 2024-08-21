@@ -28,7 +28,10 @@ namespace CleanMovie.Domain
             return "Hello, CleanMovie!";
         }
 
+        public string jungle()
+        {
+            return "hullo from jungleeee! jheenga lala lala hoo";
+        }
 
-      
     }
 }
