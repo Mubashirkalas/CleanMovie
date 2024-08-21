@@ -29,10 +29,17 @@ namespace CleanMovie.Domain
         }
 
 
+
         public string good2() {
 
             return "kuch b";
         
         }
+
+        public string jungle()
+        {
+            return "hullo from jungleeee! jheenga lala lala hoo";
+        }
+
     }
 }
