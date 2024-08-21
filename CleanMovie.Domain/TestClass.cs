@@ -27,5 +27,12 @@ namespace CleanMovie.Domain
         {
             return "Hello, CleanMovie!";
         }
+
+
+        public string good2() {
+
+            return "kuch b";
+        
+        }
     }
 }
