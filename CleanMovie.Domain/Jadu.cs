@@ -12,6 +12,5 @@ namespace CleanMovie.Domain
 
         public string Description { get; set; }
 
-      
     }
 }
