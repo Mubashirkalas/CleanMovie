@@ -18,5 +18,7 @@ namespace CleanMovie.Domain
         public int MyProperty2 { get; set; }
 
 
+
+
     }
 }
