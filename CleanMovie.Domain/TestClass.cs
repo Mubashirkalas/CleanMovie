@@ -39,5 +39,10 @@ namespace CleanMovie.Domain
             return "Let's start tarcking";
         }
 
+
+        public string River()
+        {
+            return "Rafting";
+        }
     }
 }
