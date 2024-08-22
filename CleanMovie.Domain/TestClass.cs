@@ -33,5 +33,11 @@ namespace CleanMovie.Domain
             return "hullo from jungleeee! jheenga lala lala hoo";
         }
 
+
+        public string Mountains()
+        {
+            return "Let's start tarcking";
+        }
+
     }
 }
